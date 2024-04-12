@@ -1,5 +1,5 @@
 function main() {
-  console.log("やりまくれ少年");
+  console.log("負けるな少年");
 }
 
 main();
