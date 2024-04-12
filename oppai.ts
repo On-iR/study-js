@@ -1,4 +1,4 @@
-let oppai = [5]
+let oppai = [6]
 
 oppai[0] += 5
 
